@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+    animation: ease-in-out;
+}
+
+h2{
+    color: red;
+    background-color: chartreuse;
+}
+
+h4{
+    color: blue;
+}
